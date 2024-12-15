@@ -13,6 +13,7 @@ Yes, alternative approaches include:
 •	Implementing AI-powered generic surveillance solutions without specific theft detection optimization.
 
 These alternatives lack the specificity, efficiency, and automation offered by this AI-driven solution.
+
 4.	Who are the expected users of the application?
 The primary users are small to medium-sized shop owners who already have security cameras installed in their shops.
 
@@ -35,4 +36,3 @@ The primary users are small to medium-sized shop owners who already have securit
 •	Data Sources: Video data from shops, open datasets (e.g., Kaggle), and custom recordings.
 •	Infrastructure: GPU clusters from the college for computation.
 •	Compliance: Ensuring data privacy and ethics through agreements with shops for video usage
-
